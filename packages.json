@@ -2,10 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Fire OM",
-      "name" : "Fire",
-      "version" : "2018-10-04-00-20-58",
-      "location" : "fire.json",
+      "title" : "Fire Modpack",
+      "name" : "Fire Modpack",
+      "version" : "000001",
+      "location" : "firepack.json",
       "priority" : 0
     }
   ]

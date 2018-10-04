@@ -2,10 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Fire Modpack",
-      "name" : "Fire Modpack",
-      "version" : "000001",
-      "location" : "firepack.json",
+      "title" : "Official Crafting Dead",
+      "name" : "Official Crafting Dead",
+      "version" : "2018-10-04-00-20-58",
+      "location" : "Official-Crafting-Dead.json",
       "priority" : 0
     }
   ]
